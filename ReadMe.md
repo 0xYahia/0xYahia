@@ -1,5 +1,11 @@
 # 💫 About Me:
- I’m currently training in ITI 9 months professtional training in Web development and UI .<br> I’m currently working in HTML,CSS and JavaScript projects in ITI..<br> I’m looking to collaborate on Front-end internship..<br> Ask me about Front-end web development ..<br> How to reach me: mohamedyahia831@gmail.com<br> Pronouns: Yahia.
+- 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI
+- 🌱 I’m currently working in HTML, CSS and JavaScript projects in ITI.
+- 👯 I’m looking to collaborate on Front-end internship.
+- 💬 Ask me about Front-end web development.
+- 📫 How to reach me: mohamedyahia831@gmail.com
+- 😄 Pronouns: Yahia.
+- ⚡ Fun fact: I Love Codin.
 
 
 ## 🌐 Socials:
