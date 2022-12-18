@@ -5,7 +5,7 @@
 - 💬 Ask me about Front-end web development.
 - 📫 How to reach me: mohamedyahia831@gmail.com
 - 😄 Pronouns: Yahia.
-- ⚡ Fun fact: I Love Codin.
+- ⚡ Fun fact: I Love Coding.
 
 
 ## 🌐 Socials:
