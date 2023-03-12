@@ -32,7 +32,8 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadyahia/) [![Twitter](https://img.shields.io/twitter/follow/Yahia?color=white&logo=twitter&logoColor=white&style=plastic)](https://twitter.com/mohamedyahia231) 
  
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️Random Dev Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
