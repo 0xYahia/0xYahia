@@ -1,9 +1,12 @@
 <h1 align="center"> 
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=07D2BE&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yahia+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Mohamed Yahia and Welcome to my Profile👋 animated typed out" width="100%"/>
  <br>
- <img src="https://visitcount.itsvg.in/api?id=mohamedyahia831&icon=0&color=0" style="display:inline-block;margin:auto auo">
- <br>
-</h1>
+ 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MohamedYahia831&&style=flat-square" align="center" />
+</div>  
+ 
+ </h1>
 
 # 💫 About Me:
 - 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI
@@ -23,9 +26,9 @@
 <div align="center">
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedyahia831&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyahia831&theme=dark&hide_border=false" width="400"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyahia831&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" >
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedyahia831&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyahia831&theme=react&hide_border=false" width="400"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyahia831&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" >
 </div>
 <br>
 
