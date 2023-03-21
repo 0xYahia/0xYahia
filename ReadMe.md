@@ -5,8 +5,13 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MohamedYahia831&&style=flat-square" align="center" />
 </div>  
- 
  </h1>
+ 
+ <h3>Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+<p align="center">
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+</p>
 
 # 💫 About Me:
 - 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI
