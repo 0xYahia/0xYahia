@@ -12,8 +12,8 @@
 - 🌱 I’m currently working in HTML, CSS and JavaScript projects in ITI.
 - 👯 I’m looking to collaborate on Front-end internship.
 - 💬 Ask me about Front-end web development.
-- 📫 How to reach me: 20812018101120@eng.zu.edu.eg
-- 😄 Pronouns: Mahmoud.
+- 📫 How to reach me: mohamdyahia@outlook.com
+- 😄 Pronouns: Yahia.
 - ⚡ Fun fact: I Love Coding.
 
 <h3>Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
