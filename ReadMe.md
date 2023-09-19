@@ -8,9 +8,7 @@
  </h1>
 
 # 💫 About Me:
-- 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI
-- 🌱 I’m currently working in HTML, CSS and JavaScript projects in ITI.
-- 👯 I’m looking to collaborate on Front-end internship.
+- 🔭  ITI 9 graduated
 - 💬 Ask me about Front-end web development.
 - 📫 How to reach me: mohamdyahia@outlook.com
 - 😄 Pronouns: Yahia.
