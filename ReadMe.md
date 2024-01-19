@@ -11,7 +11,7 @@
 - 🔭  ITI 9 graduated
 - 💬 Ask me about Front-end web development.
 - 📫 How to reach me: mohamdyahia@outlook.com
-- ⚡ Fun Fact: I Love Coding.
+- ⚡ Fun fact: I Love Coding.
 
 <h3>Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center">
