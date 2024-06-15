@@ -38,7 +38,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xyahia/) [![Twitter](https://img.shields.io/twitter/follow/Yahia?color=white&logo=twitter&logoColor=white&style=plastic)](https://twitter.com/mohamedyahia231) 
  
 ---
-## ✍️Random Dev Quot
+## ✍️Random Dev Quote
 
 
 <p align="center">
