@@ -72,7 +72,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            {"layout": "compact", "langs_count": 6, "size_weight": 0.5, "count_weight": 0.5,
+            {"layout": "compact", "langs_count": 6, "card_width": 340, "size_weight": 0.5, "count_weight": 0.5,
             "border_radius": 10, "bg_color": "ffffff", "border_color": "d0d7de",
             "title_color": "0a7e74", "text_color": "1f2328"}
           path: dist/top-langs-light.svg
@@ -84,7 +84,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            {"layout": "compact", "langs_count": 6, "size_weight": 0.5, "count_weight": 0.5,
+            {"layout": "compact", "langs_count": 6, "card_width": 340, "size_weight": 0.5, "count_weight": 0.5,
             "border_radius": 10, "bg_color": "0d1117", "border_color": "30363d",
             "title_color": "07d2be", "text_color": "c9d1d9"}
           path: dist/top-langs-dark.svg
