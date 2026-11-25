@@ -1,0 +1,121 @@
+name: Update profile assets
+
+# Regenerates the stats, top-languages, streak and contribution-snake images that
+# ReadMe.md shows, then publishes them to the `output` branch. The README reads the
+# images from that branch, so the profile never depends on a public card service
+# staying online (the old github-readme-stats and Heroku streak hosts are gone).
+#
+# Optional: by default only public repositories are counted. To include private
+# work in the stats and languages cards, create a classic personal access token
+# with the `repo` and `read:user` scopes and save it as a repository secret named
+# PROFILE_STATS_TOKEN (Settings -> Secrets and variables -> Actions).
+
+on:
+  schedule:
+    - cron: "37 3 * * *" # every day at 03:37 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-assets.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      # fail_on_error stops the run instead of publishing an error card, so a GitHub
+      # API hiccup leaves yesterday's images in place rather than breaking the README.
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: >-
+            {"show_icons": true, "include_all_commits": true, "rank_icon": "github",
+            "border_radius": 10, "bg_color": "ffffff", "border_color": "d0d7de",
+            "title_color": "0a7e74", "icon_color": "0a7e74", "ring_color": "0a7e74",
+            "text_color": "1f2328"}
+          path: dist/stats-light.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: >-
+            {"show_icons": true, "include_all_commits": true, "rank_icon": "github",
+            "border_radius": 10, "bg_color": "0d1117", "border_color": "30363d",
+            "title_color": "07d2be", "icon_color": "07d2be", "ring_color": "07d2be",
+            "text_color": "c9d1d9"}
+          path: dist/stats-dark.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: >-
+            {"layout": "compact", "langs_count": 6, "size_weight": 0.5, "count_weight": 0.5,
+            "border_radius": 10, "bg_color": "ffffff", "border_color": "d0d7de",
+            "title_color": "0a7e74", "text_color": "1f2328"}
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: >-
+            {"layout": "compact", "langs_count": 6, "size_weight": 0.5, "count_weight": 0.5,
+            "border_radius": 10, "bg_color": "0d1117", "border_color": "30363d",
+            "title_color": "07d2be", "text_color": "c9d1d9"}
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Streak card (light)
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
+        with:
+          options: >-
+            {"border_radius": 10, "background": "ffffff", "border": "d0d7de",
+            "stroke": "d0d7de", "ring": "0a7e74", "fire": "0a7e74",
+            "currStreakNum": "1f2328", "sideNums": "1f2328", "currStreakLabel": "0a7e74",
+            "sideLabels": "59636e", "dates": "59636e"}
+          path: dist/streak-light.svg
+
+      - name: Streak card (dark)
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
+        with:
+          options: >-
+            {"border_radius": 10, "background": "0d1117", "border": "30363d",
+            "stroke": "30363d", "ring": "07d2be", "fire": "07d2be",
+            "currStreakNum": "e6edf3", "sideNums": "e6edf3", "currStreakLabel": "07d2be",
+            "sideLabels": "8b949e", "dates": "8b949e"}
+          path: dist/streak-dark.svg
+
+      - name: Publish images to the output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update profile assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
