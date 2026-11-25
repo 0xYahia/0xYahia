@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm a full-stack software engineer in Cairo, Egypt, currently at **Advansys ESC**. I build web products end to end, mostly in TypeScript: Angular and React/Next.js on the front end, Node.js and NestJS APIs on the back end. I came to software from a commerce degree and trained through ITI's 9-month Web & UI Development program.
+I'm a full-stack software engineer in Cairo, Egypt, currently at **Advansys ESC**. I build web products end to end, mostly in TypeScript: Angular and React/Next.js on the front end, Node.js and NestJS APIs on the back end.
 
 - 💼 **Now:** Software Engineer at Advansys ESC
 - 🌍 **Shipping:** bilingual Arabic/English (RTL) web apps with Next.js and next-intl
@@ -81,11 +81,6 @@ Core data structures, algorithms and problem-solving practice in TypeScript.
 
 **Software Engineer · Advansys ESC** · _Present_<br>
 Building and maintaining web applications end to end. Full history on [LinkedIn](https://www.linkedin.com/in/0xyahia/).
-
-## 🎓 Education
-
-- **Information Technology Institute (ITI)**: 9-Month Professional Diploma, Web & UI Development · 2022 – 2023
-- **Al-Azhar University**: Bachelor of Commerce · 2016 – 2020
 
 ## 📊 GitHub activity
 
