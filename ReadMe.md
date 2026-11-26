@@ -2,13 +2,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Mohamed Yahia, Full-Stack Software Engineer: TypeScript, Angular, React, Next.js, Node.js, NestJS. Cairo, Egypt." src="assets/banner-light.svg" width="100%">
+  <img alt="Mohamed Yahia, Senior Software Engineer. Backend: Java, Spring Boot, C#, .NET. Cairo, Egypt." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=07D2BE&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer+%40+Advansys+ESC;Angular+%C2%B7+React+%C2%B7+Next.js+on+the+front+end;Node.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+on+the+back+end;Arabic+%2F+English+(RTL)+web+apps;Open+to+new+opportunities">
-    <img alt="Full-Stack Software Engineer at Advansys ESC. Angular, React and Next.js on the front end; Node.js, NestJS and PostgreSQL on the back end." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A7E74&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer+%40+Advansys+ESC;Angular+%C2%B7+React+%C2%B7+Next.js+on+the+front+end;Node.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+on+the+back+end;Arabic+%2F+English+(RTL)+web+apps;Open+to+new+opportunities">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=07D2BE&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
+    <img alt="Senior Software Engineer with 4+ years of experience. Backend: Java, Spring Boot, C#, .NET. Docker, Kubernetes, AWS, Linux." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A7E74&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
   </picture>
 </p>
 
@@ -21,66 +21,116 @@
 
 ## 👋 About me
 
-I'm a full-stack software engineer in Cairo, Egypt, currently at **Advansys ESC**. I build web products end to end, mostly in TypeScript: Angular and React/Next.js on the front end, Node.js and NestJS APIs on the back end.
+Senior Software Engineer with **4+ years** of experience building scalable, high-performance web platforms. My focus is the **backend**: designing RESTful APIs and data models with **Java / Spring Boot** and **C# / .NET** on PostgreSQL, Oracle and MySQL, backed by full-stack depth in Angular and TypeScript. I've built logistics and order-management SaaS platforms, including a system that has delivered **60M+ orders across Egypt, KSA and Kuwait**.
 
-- 💼 **Now:** Software Engineer at Advansys ESC
-- 🌍 **Shipping:** bilingual Arabic/English (RTL) web apps with Next.js and next-intl
-- 🌱 **Leveling up:** NestJS architecture, Node.js internals and Nx monorepos
-- 💬 **Ask me about:** Angular, React/Next.js, NestJS, REST API design
+- 💼 **Now:** Full-Stack Developer at **NTG Clarity**, building Spring Boot REST APIs for Angular apps on PostgreSQL and Oracle
+- ⚙️ **Focus:** backend engineering with Java/Spring Boot and C#/.NET, API design and SQL performance
+- 🐳 **DevOps & cloud:** Docker, Kubernetes, AWS and Linux
+- 🤖 **AI-assisted:** Claude Code and OpenAI Codex in daily work to ship faster without lowering code quality
+- 👨‍🏫 **Mentor:** former ITI instructor for web and UI development
 - 📫 **Reach me:** [mohamdyahia@outlook.com](mailto:mohamdyahia@outlook.com)
 
 ## 🛠️ Tech stack
 
-<p align="center">
-  <b>Languages</b><br>
+### ⚙️ Backend (primary focus)
+
+<table>
+  <tr>
+    <th width="50%">☕ Java · Spring Boot</th>
+    <th width="50%">🟣 C# · .NET</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,idea&theme=dark">
+        <img alt="Java, Spring, Hibernate, Maven, Gradle, IntelliJ IDEA" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,idea&theme=light" height="44">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider&theme=dark">
+        <img alt="C#, .NET, Visual Studio, Rider" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider&theme=light" height="44">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+`Java 17+` `Spring Boot` `Spring MVC · REST` `Spring Data JPA` `Hibernate` `Spring Security · JWT · OAuth2` `Spring Cloud · Microservices` `Maven` `Gradle` `JUnit 5` `Mockito`
+
+</td>
+    <td valign="top">
+
+`C#` `.NET 8+` `ASP.NET Core Web API` `Entity Framework Core` `LINQ` `ASP.NET Core Identity · JWT` `Clean Architecture` `CQRS · MediatR` `SignalR` `xUnit` `Moq`
+
+</td>
+  </tr>
+</table>
+
+**Shared backend & data**
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,sass,c,cpp&theme=dark">
-    <img alt="TypeScript, JavaScript, HTML, CSS, Sass, C, C++" src="https://skillicons.dev/icons?i=ts,js,html,css,sass,c,cpp&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq&theme=dark">
+    <img alt="PostgreSQL, MySQL, Redis, Kafka, RabbitMQ" src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq&theme=light" height="44">
   </picture>
 </p>
-<p align="center">
-  <b>Frontend</b><br>
+
+`RESTful APIs` `Microservices` `OOP · SOLID` `Design patterns` `SQL & query optimization` `PostgreSQL` `Oracle Database` `MySQL` `SQL Server` `Redis` `Kafka` `RabbitMQ` `OpenAPI · Swagger` `Unit & integration testing`
+
+### 🐳 DevOps & cloud
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,vue&theme=dark">
-    <img alt="Angular, React, Next.js, Redux, Tailwind CSS, Bootstrap, Vue" src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,vue&theme=light">
-  </picture>
-</p>
-<p align="center">
-  <b>Backend &amp; data</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis&theme=dark">
-    <img alt="Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis&theme=light">
-  </picture>
-</p>
-<p align="center">
-  <b>Cloud &amp; tools</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vercel,postman,figma,vscode&theme=dark">
-    <img alt="Docker, AWS, Git, GitHub, GitHub Actions, Vercel, Postman, Figma, VS Code" src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vercel,postman,figma,vscode&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,jenkins,nginx,git&theme=dark">
+    <img alt="Docker, Kubernetes, AWS, Linux, GitHub Actions, Jenkins, Nginx, Git" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,jenkins,nginx,git&theme=light" height="44">
   </picture>
 </p>
 
-## 🚀 Featured projects
+`Docker` `Kubernetes` `AWS` `Linux` `CI/CD` `GitHub Actions` `Jenkins` `Nginx` `Git`
 
-**🧽 Medi Clean: bilingual booking website** · [Live](https://0xyahia.github.io/cleaning-platform/) · [Code](https://github.com/0xYahia/cleaning-platform)<br>
-Arabic/English (RTL) website for a home-cleaning company in Saudi Arabia: service pages, booking flow, subscription and loyalty offers, SEO metadata, sitemap and robots, statically exported to GitHub Pages.<br>
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `next-intl`
+### 🎨 Frontend
 
-**🧪 Physics Lab: interactive experiments** · [Live](https://physics-experiments-simulation.vercel.app) · [Code](https://github.com/0xYahia/physics-experiments-simulation)<br>
-Arabic drag-and-drop physics experiments: apply a push force and watch acceleration and speed plotted live, or compare an object's weight on Earth, the Moon and Mars.<br>
-`Next.js` `React` `TypeScript` `dnd-kit` `Highcharts` `Tailwind CSS`
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,redux,materialui,tailwind,bootstrap,sass&theme=dark">
+    <img alt="Angular, TypeScript, JavaScript, React, Next.js, Redux, Material UI, Tailwind CSS, Bootstrap, Sass" src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,redux,materialui,tailwind,bootstrap,sass&theme=light" height="44">
+  </picture>
+</p>
 
-**🛒 Dawiny: e-commerce REST API** · [Code](https://github.com/0xYahia/E-Commerce-Using-Node.js)<br>
-JWT authentication and authorization, product CRUD, shopping cart and orders, Stripe payments, image uploads with Multer and Sharp, filtering and pagination.<br>
-`Node.js` `Express` `MongoDB` `Mongoose` `Stripe` `JWT`
+`Angular` `RxJS` `Angular Material` `TypeScript` `React` `Next.js` `React Native` `Redux` `MUI` `Tailwind CSS` `Webpack` `Service Workers`
 
-**🧠 Data structures & algorithms** · [Data Structures](https://github.com/0xYahia/Data-Structures) · [Algorithms](https://github.com/0xYahia/Algorithm) · [LeetCode](https://github.com/0xYahia/Problem-solving-LeetCode)<br>
-Core data structures, algorithms and problem-solving practice in TypeScript.
+### 🤖 AI tools & ways of working
+
+`Claude Code` `OpenAI Codex` `ChatGPT` `GLM` `Google Antigravity` `Prompt engineering` `Agile` `Scrum` `Code reviews` `Mentoring`
 
 ## 💼 Experience
 
-**Software Engineer · Advansys ESC** · _Present_<br>
-Building and maintaining web applications end to end. Full history on [LinkedIn](https://www.linkedin.com/in/0xyahia/).
+**Full-Stack Developer** · NTG Clarity · Cairo · _Apr 2025 – Present_
+- Build full-stack features with **Java/Spring Boot** REST APIs and Angular/TypeScript frontends.
+- Design data models and write optimized SQL on **PostgreSQL** and **Oracle Database**.
+
+**Senior Software Engineer** (promoted from Software Engineer II) · Advansys · Cairo (hybrid) · _Aug 2023 – Apr 2025_
+- Built core modules of the company's logistics platform: shipment tracking, order dispatching and fleet management.
+- Designed and integrated RESTful APIs with **C# and .NET**, with optimized SQL on **MySQL**.
+- Built data-heavy Angular/RxJS dashboards with advanced filtering, real-time status updates and operational reports.
+- Led features end to end, mentored junior engineers and drove code reviews and technical decisions in an Agile team.
+
+**Frontend Developer** · Roboost · Cairo · _Aug 2022 – Aug 2023_
+- Spearheaded an automated order-management SaaS dashboard; the system now delivers **60M+ orders across Egypt, KSA and Kuwait**.
+- Refactored and optimized the Angular codebase, cutting bundle sizes for faster load times and a more responsive UI.
+
+**External Instructor** · Information Technology Institute (ITI) · Remote · _Jun 2023 – 2025_
+- Designed and taught web and UI development curricula (HTML, CSS, JavaScript, Angular, React) and mentored students into job-ready developers.
+
+## 🚀 Projects
+
+**🧪 Physics Experiments Simulation** · [Live](https://physics-experiments-simulation-ebon.vercel.app/weight) · [Code](https://github.com/0xYahia/physics-experiments-simulation)<br>
+Saudi educational platform where students run physics experiments through interactive drag-and-drop simulations.<br>
+`Next.js` `Tailwind CSS` `dnd kit`
+
+**🛋️ Furnival: e-commerce platform (team project)** · [Live](https://user-nu.vercel.app/) · [Code](https://github.com/Graduation-Proj-ITI)<br>
+Responsive furniture e-commerce platform optimized for all devices and browsers, with secure payment gateways and user authentication integrated with the backend team.
 
 ## 📊 GitHub activity
 
@@ -88,17 +138,11 @@ Building and maintaining web applications end to end. Full history on [LinkedIn]
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xYahia/0xYahia/output/stats-dark.svg">
-    <img alt="GitHub stats for 0xYahia" src="https://raw.githubusercontent.com/0xYahia/0xYahia/output/stats-light.svg" height="170">
+    <img alt="GitHub stats for 0xYahia" src="https://raw.githubusercontent.com/0xYahia/0xYahia/output/stats-light.svg" height="160">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xYahia/0xYahia/output/top-langs-dark.svg">
-    <img alt="Most used languages" src="https://raw.githubusercontent.com/0xYahia/0xYahia/output/top-langs-light.svg" height="170">
-  </picture>
-</p>
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xYahia/0xYahia/output/streak-dark.svg">
-    <img alt="GitHub contribution streak" src="https://raw.githubusercontent.com/0xYahia/0xYahia/output/streak-light.svg">
+    <img alt="GitHub contribution streak" src="https://raw.githubusercontent.com/0xYahia/0xYahia/output/streak-light.svg" height="160">
   </picture>
 </p>
 <p align="center">
@@ -108,4 +152,4 @@ Building and maintaining web applications end to end. Full history on [LinkedIn]
   </picture>
 </p>
 
-<p align="center"><i>Open to new opportunities and collaborations. Email or LinkedIn is the fastest way to reach me.</i></p>
+<p align="center"><i>Open to backend engineering opportunities (Java/Spring Boot, C#/.NET) and collaborations. Email or LinkedIn is the fastest way to reach me.</i></p>
