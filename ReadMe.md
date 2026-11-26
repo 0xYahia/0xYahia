@@ -2,13 +2,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Mohamed Yahia, Senior Software Engineer. Backend: Java, Spring Boot, C#, .NET. Cairo, Egypt." src="assets/banner-light.svg" width="100%">
+  <img alt="Mohamed Yahia, Senior Software Engineer. Backend: Java, Spring Boot, C#, .NET. Frontend: Angular, React, TypeScript. Cairo, Egypt." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=07D2BE&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
-    <img alt="Senior Software Engineer with 4+ years of experience. Backend: Java, Spring Boot, C#, .NET. Docker, Kubernetes, AWS, Linux." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A7E74&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=07D2BE&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;Frontend%3A+Angular+%C2%B7+React+%C2%B7+TypeScript;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
+    <img alt="Senior Software Engineer with 4+ years of experience. Backend: Java, Spring Boot, C#, .NET. Frontend: Angular, React, TypeScript. Docker, Kubernetes, AWS, Linux." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A7E74&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+4%2B+years;Backend%3A+Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;Frontend%3A+Angular+%C2%B7+React+%C2%B7+TypeScript;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Oracle+%C2%B7+MySQL;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Linux;Logistics+SaaS+%C2%B7+60M%2B+orders+across+3+countries">
   </picture>
 </p>
 
